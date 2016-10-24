@@ -1,0 +1,118 @@
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\ApplicationInsights.config
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\csc.exe
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\vbc.exe
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\CM_WAPI.dll.config
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\CM_WAPI.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\CM_WAPI.pdb
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Antlr3.Runtime.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.Web.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Newtonsoft.Json.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Helpers.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Http.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Mvc.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Optimization.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Razor.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.WebPages.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\WebGrease.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.Web.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Newtonsoft.Json.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Helpers.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Http.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Mvc.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Optimization.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.Razor.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.WebPages.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\bin\Antlr3.Runtime.pdb
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\obj\Debug\CM_WAPI.csprojResolveAssemblyReference.cache
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\obj\Debug\CM_WAPI.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI\CM_WAPI\obj\Debug\CM_WAPI.pdb
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\ApplicationInsights.config
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\csc.exe
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\vbc.exe
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\CM_WAPI.dll.config
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\CM_WAPI.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\CM_WAPI.pdb
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Antlr3.Runtime.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.Web.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Newtonsoft.Json.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Helpers.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Http.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Mvc.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Optimization.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Razor.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.WebPages.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\WebGrease.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.Web.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Newtonsoft.Json.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Helpers.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Http.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Mvc.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Optimization.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.Razor.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.WebPages.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\bin\Antlr3.Runtime.pdb
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\obj\Debug\CM_WAPI.csprojResolveAssemblyReference.cache
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\obj\Debug\CM_WAPI.dll
+C:\Users\dromero\Documents\visual studio 2015\Projects\CM_WAPI 2\CM_WAPI\obj\Debug\CM_WAPI.pdb
